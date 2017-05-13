@@ -2,7 +2,7 @@ Copyright (c) 2015, Huynh Van Luong, Email: huynh.luong@fau.de
 Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
 All rights reserved.
 
-Contributors: Huynh Van Luong, J. Seiler, A. Kaup, and S. Forchhammer.
+	Contributors: Huynh Van Luong, J. Seiler, A. Kaup, and S. Forchhammer.
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions are

@@ -11,7 +11,7 @@ I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
     	Multiple Side Information for Distributed Compression of Sparse Sources," in Data Compression 
     	Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.
 
-  Solving the n-l1 minimization problem:
+  Solving the minimization problem:
         min ∑j Wj || x - zj ||1   subject to  Ax = b, 
         	where b ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
 		

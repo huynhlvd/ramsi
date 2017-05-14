@@ -34,10 +34,12 @@ Outputs:
           "Measurement Bounds for Sparse Signal Recovery with Multiple Side Information," 
            in e-print, arXiv, Jan. 2017.
 
-            Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem:
+**_Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem:_**
                      minx {1/2 ||Ax - b ||22  +  lambda ∑j Wj || x - zj ||1},
 
-                     where measurements b =  Ax ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
-            The main files are:    
-	            */nl1Bound.m: The function for computing measurement bounds.
-	            */usageDemo.m: One demo to run the nl1Bound function. 
+   where measurements b =  Ax ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
+           
+**_Source code files:_**    
+
+	- nl1Bound.m: The function for computing measurement bounds.
+	- usageDemo.m: One demo to run the nl1Bound function. 

@@ -25,6 +25,7 @@ Inputs:
 
 Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{x}\in\mathbb{R}^{n}" title="\boldsymbol{x}_{t},\boldsymbol{v}_{t}\in\mathbb{R}^{n}" />: The recovered source
+
 **_Source code files:_**  
  - `ramsi.m`: The function for RAMSI
  - `usageDemo_ramsi.m`: One demo to run RAMSI

@@ -1,8 +1,8 @@
 RAMSI Algorithm and Performance Guarantees
 -----------------------------------------------------------------------
-       Version 1.1, Mar. 6, 2016
-       Implementations by Huynh Van Luong, Email: huynh.luong@fau.de
-       Please see the file LICENSE for the full text of the license.
+    Version 1.1, Mar. 6, 2016
+    Implementations by Huynh Van Luong, Email: huynh.luong@fau.de
+    Please see the file LICENSE for the full text of the license.
 -----------------------------------------------------------------------
 
 I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
@@ -15,9 +15,10 @@ I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
         min ∑j Wj || x - zj ||1   subject to  Ax = b, 
         	where b ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
 		
-   The main files are:    
-   - ramsi.m: The function for RAMSI.
-   - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
+ The main files are:  
+ 
+     - ramsi.m: The function for RAMSI.
+     - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
        
 II. Measurement Bounds for Weighted n-l1 Minimization [2]
 

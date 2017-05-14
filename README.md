@@ -1,4 +1,4 @@
-RAMSI Algorithm and Performance Guarantees
+# RAMSI Algorithm and Performance Guarantees
 -----------------------------------------------------------------------
         Version 1.1, Mar. 6, 2016
         Implementations by Huynh Van Luong, Email: huynh.luong@fau.de
@@ -8,6 +8,7 @@ RAMSI Algorithm and Performance Guarantees
 -----------------------------------------------------------------------
 
 **I. Reconstruction Algorithm with Multiple Side Information (RAMSI)**
+Please cite this publication
 
     PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "A Reconstruction Algorithm with 
     	Multiple Side Information for Distributed Compression of Sparse Sources," in Data Compression 
@@ -30,6 +31,7 @@ Outputs:
  - `usageDemo_ramsi.m`: One demo to run RAMSI
 
 **II. Measurement Bounds for Weighted n-l1 Minimization**
+Please cite this publication
 
     PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, 
           "Measurement Bounds for Sparse Signal Recovery with Multiple Side Information," 

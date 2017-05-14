@@ -23,7 +23,7 @@ Inputs:
 Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{x}_{t}\in\mathbb{R}^{n}" title="\boldsymbol{x}_{t},\boldsymbol{v}_{t}\in\mathbb{R}^{n}" />: Estimates of foreground and background
 
-Main source code files are:  
+**Source code files:**  
  
      - ramsi.m: The function for RAMSI.
      - usageDemo.m: One demo to run RAMSI. 

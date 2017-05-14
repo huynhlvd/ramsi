@@ -3,6 +3,7 @@ RAMSI Algorithm and Performance Guarantees
         Version 1.1, Mar. 6, 2016
         Implementations by Huynh Van Luong, Email: huynh.luong@fau.de
         Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
+        
         Please see the file LICENSE for the full text of the license.
 -----------------------------------------------------------------------
 

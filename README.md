@@ -7,21 +7,19 @@ RAMSI Algorithm and Performance Guarantees
 
 I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
 
-            The main files are:    
-                     */ramsi.m: The function for RAMSI.
-                     */usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
-
-
-            PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, 
-                     "A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources," 
-                     in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.
+    PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, 
+          "A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources," 
+           in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.
 
 
             Solving the n-l1 minimization problem:
                      min ∑j Wj || x - zj ||1   subject to  Ax = b, 
 
                      where b ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
-
+   The main files are:    
+       - ramsi.m: The function for RAMSI.
+       - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
+       
 II. Measurement Bounds for Weighted n-l1 Minimization [2]
 
             The main files are:    

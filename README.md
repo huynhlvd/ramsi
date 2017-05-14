@@ -17,8 +17,8 @@ I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
 
                      where b ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
    The main files are:    
-       - ramsi.m: The function for RAMSI.
-       - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
+   - ramsi.m: The function for RAMSI.
+   - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
        
 II. Measurement Bounds for Weighted n-l1 Minimization [2]
 

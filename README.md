@@ -26,7 +26,7 @@ Outputs:
 
 **_Source code files:_**  
  - `ramsi.m`: The function for RAMSI
- - `usageDemo.m`: One demo to run RAMSI
+ - `usageDemo_ramsi.m`: One demo to run RAMSI
 
 **II. Measurement Bounds for Weighted n-l1 Minimization**
 
@@ -38,4 +38,4 @@ Outputs:
                      
 **_Source code files:_**    
 - `nl1Bound.m`: The function for computing measurement bounds
-- `usageDemo.m`: One demo to run the nl1Bound function
+- `usageDemo_nl1Bound.m`: One demo to run the nl1Bound function

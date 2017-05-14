@@ -18,7 +18,7 @@ I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
  The main files are:  
  
      - ramsi.m: The function for RAMSI.
-     - usageDemo.m: One demo to run RAMSI. Some simple changes may be made to each of these files to get them to run on your machine. 
+     - usageDemo.m: One demo to run RAMSI. 
        
 II. Measurement Bounds for Weighted n-l1 Minimization [2]
 

@@ -5,7 +5,7 @@ RAMSI Algorithm and Performance Guarantees
     Please see the file LICENSE for the full text of the license.
 -----------------------------------------------------------------------
 
-I. Reconstruction Algorithm with Multiple Side Information (RAMSI)
+**I. Reconstruction Algorithm with Multiple Side Information (RAMSI)**
 
     PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "A Reconstruction Algorithm with 
     	Multiple Side Information for Distributed Compression of Sparse Sources," in Data Compression 

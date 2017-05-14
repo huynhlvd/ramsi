@@ -30,16 +30,14 @@ Outputs:
      
 **II. Measurement Bounds for Weighted n-l1 Minimization**
 
-            The main files are:    
-	            */nl1Bound.m: The function for computing measurement bounds.
-	            */usageDemo.m: One demo to run the nl1Bound function. 
-
-
-            PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, 
-                "Measurement Bounds for Sparse Signal Recovery with Multiple Side Information," 
-                 in e-print, arXiv, Jan. 2017.
+    PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, 
+          "Measurement Bounds for Sparse Signal Recovery with Multiple Side Information," 
+           in e-print, arXiv, Jan. 2017.
 
             Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem:
                      minx {1/2 ||Ax - b ||22  +  lambda ∑j Wj || x - zj ||1},
 
                      where measurements b =  Ax ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
+            The main files are:    
+	            */nl1Bound.m: The function for computing measurement bounds.
+	            */usageDemo.m: One demo to run the nl1Bound function. 

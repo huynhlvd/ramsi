@@ -12,7 +12,7 @@ I. Reconstruction Algorithm with Multiple Side Information (RAMSI) [1]
     	Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.
 
   Solving the minimization problem:
-        min ∑j Wj || x - zj ||1   subject to  Ax = b, 
+        <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\min_{\boldsymbol{x}}&space;||\boldsymbol{x}||_{1}&space;\mathrm{~subject~to~}&space;\boldsymbol{y}=\mathbf{\Phi}\boldsymbol{x}" title="\min_{\boldsymbol{x}} ||\boldsymbol{x}||_{1} \mathrm{~subject~to~} \boldsymbol{y}=\mathbf{\Phi}\boldsymbol{x}" /> , 
         	where b ∈ Rm x 1,  A ∈ Rm x n,  x, zj ∈ Rn x 1, Wj = diag(n), wij (∈ Wj) > 0.
 		
  The main files are:  

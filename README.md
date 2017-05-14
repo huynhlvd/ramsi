@@ -31,7 +31,7 @@ Main source code files are:
      - ramsi.m: The function for RAMSI.
      - usageDemo.m: One demo to run RAMSI. 
      
-II. Measurement Bounds for Weighted n-l1 Minimization
+**II. Measurement Bounds for Weighted n-l1 Minimization**
 
             The main files are:    
 	            */nl1Bound.m: The function for computing measurement bounds.

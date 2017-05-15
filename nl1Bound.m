@@ -72,8 +72,8 @@ end
 kap_nl1 = 2*min(c_min)/(sqrt(pi*log(n/s_nl1))*(2*c_min-1)); 
 
 % Delta_n-l1
-delta_nl1 = (kap_nl1 - 1)*(s_nl1 - p))
+delta_nl1 = (kap_nl1 - 1)*(s_nl1 - p);
 
 %% Computing the final bound
-m_nl1 = ceil(2*a_nl1*log(n/s_nl1) + (7/5)*s_nl1 + delta_nl1 + 1;    
+m_nl1 = ceil(2*a_nl1*log(n/s_nl1) + (7/5)*s_nl1 + delta_nl1 + 1);    
 

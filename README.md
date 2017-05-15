@@ -39,7 +39,7 @@ Please cite this publication
            in e-print, arXiv, Jan. 2017.
 
 **_Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem in (1)._**
- <img src="https://latex.codecogs.com/gif.latex?m_{n\text{-}\ell_{1}}\geq&space;2\bar{a}_{n\text{-}\ell_{1}}&space;\log\frac{n}{\bar{s}_{n\text{-}\ell_{1}}}\hspace{-1pt}&plus;\hspace{-1pt}&space;\frac{7}{5}&space;\bar{s}_{n\text{-}\ell_{1}}\hspace{-1pt}&plus;\delta_{n\text{-}\ell_{1}}&plus;1" title="m_{n\text{-}\ell_{1}}\geq 2\bar{a}_{n\text{-}\ell_{1}} \log\frac{n}{\bar{s}_{n\text{-}\ell_{1}}}\hspace{-1pt}+\hspace{-1pt} \frac{7}{5} \bar{s}_{n\text{-}\ell_{1}}\hspace{-1pt}+\delta_{n\text{-}\ell_{1}}+1" />
+<img src="https://latex.codecogs.com/svg.latex?m_{n\text{-}\ell_{1}}\geq&space;2\bar{a}_{n\text{-}\ell_{1}}&space;\log\frac{n}{\bar{s}_{n\text{-}\ell_{1}}}\hspace{-1pt}&plus;\hspace{-1pt}&space;\frac{7}{5}&space;\bar{s}_{n\text{-}\ell_{1}}\hspace{-1pt}&plus;\delta_{n\text{-}\ell_{1}}&plus;1" title="m_{n\text{-}\ell_{1}}\geq 2\bar{a}_{n\text{-}\ell_{1}} \log\frac{n}{\bar{s}_{n\text{-}\ell_{1}}}\hspace{-1pt}+\hspace{-1pt} \frac{7}{5} \bar{s}_{n\text{-}\ell_{1}}\hspace{-1pt}+\delta_{n\text{-}\ell_{1}}+1" />
  
 **_Source code files:_**    
 - `nl1Bound.m`: The function for computing measurement bounds

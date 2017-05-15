@@ -19,6 +19,13 @@ function [m_nl1] = nl1Bound(x, Zin)
 %
 % OUTPUT:
 %   m_nl1 - the measurement bound 
+% 
+% 
+% Please cite this publication
+% 
+%     PUBLICATION: H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, 
+%           "Measurement Bounds for Sparse Signal Recovery with Multiple Side Information," 
+%            in e-print, arXiv, Jan. 2017.
 %%
 % Immediate values
 Z = Zin;

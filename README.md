@@ -27,8 +27,8 @@ Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{\hat{x}}\in\mathbb{R}^{n}" title="\boldsymbol{x}_{t},\boldsymbol{v}_{t}\in\mathbb{R}^{n}" />: The recovered source 
 
 **_Source code files:_**  
- - `ramsi.m`: The function for RAMSI
- - `usageDemo_ramsi.m`: One demo to run RAMSI
+ - [ramsi.m](https://github.com/huynhlvd/ramsi/blob/master/ramsi.m): The function for RAMSI
+ - [usageDemo_ramsi.m](https://github.com/huynhlvd/ramsi/blob/master/usageDemo_ramsi.m): One demo to run RAMSI
 
 **II. Measurement Bounds for Weighted n-l1 Minimization**
 
@@ -45,5 +45,5 @@ Please cite this publication
  (For details, please refer to the above reference)
  
 **_Source code files:_**    
-- `nl1Bound.m`: The function for computing measurement bounds
-- `usageDemo_nl1Bound.m`: One demo to run the nl1Bound function
+- [nl1Bound.m](https://github.com/huynhlvd/ramsi/blob/master/nl1Bound.m): The function for computing measurement bounds
+- [usageDemo_nl1Bound.m](https://github.com/huynhlvd/ramsi/blob/master/usageDemo_nl1Bound.m): One demo to run the nl1Bound function

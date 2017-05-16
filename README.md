@@ -4,7 +4,7 @@
         Implementations by Huynh Van Luong, Email: huynh.luong@fau.de
         Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
         
-   Please see the file [LICENSE](https://github.com/huynhlvd/ramsi/blob/master/LICENSE.md) for the full text of the license.
+   (_Please see [LICENSE](https://github.com/huynhlvd/ramsi/blob/master/LICENSE.md) for the full text of the license_)
 
 **I. Reconstruction Algorithm with Multiple Side Information (RAMSI)**
 

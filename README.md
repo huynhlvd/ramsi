@@ -8,9 +8,9 @@
 
 **I. Reconstruction Algorithm with Multiple Side Information (RAMSI)**
 
-Please cite this publication
+Please cite this publication:
 
-   `H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "`[A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources](http://ieeexplore.ieee.org/document/7786164/)`," in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.`
+`H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "`[A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources](http://ieeexplore.ieee.org/document/7786164/)`," in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.`
 
   **_Solving the _n-l1_ minimization problem:_**
   
@@ -30,9 +30,9 @@ Outputs:
 
 **II. Measurement Bounds for Weighted n-l1 Minimization**
 
-Please cite this publication
+Please cite this publication:
 
-H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, "[Measurement Bounds for Sparse Signal Recovery with Multiple Side Information](https://arxiv.org/abs/1605.03234)," in e-print, arXiv, Jan. 2017.
+`H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, "`[Measurement Bounds for Sparse Signal Recovery with Multiple Side Information](https://arxiv.org/abs/1605.03234)`," in e-print, arXiv, Jan. 2017.`
 
 **_Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem in (1)._**
 

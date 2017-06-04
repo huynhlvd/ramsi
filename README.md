@@ -10,7 +10,7 @@
 
 Please cite this publication
 
-`H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "`[A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources](http://ieeexplore.ieee.org/document/7786164/)`," in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.`
+   `H. V. Luong, J. Seiler, A. Kaup, and S. Forchhammer, "`[A Reconstruction Algorithm with Multiple Side Information for Distributed Compression of Sparse Sources](http://ieeexplore.ieee.org/document/7786164/)`," in Data Compression Conference 2016 (DCC 2016), Snowbird, Utah, Apr. 2016.`
 
   **_Solving the _n-l1_ minimization problem:_**
   

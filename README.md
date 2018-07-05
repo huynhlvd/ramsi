@@ -32,7 +32,7 @@ Outputs:
 
 Please cite this publication:
 
-`H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, "`[Measurement Bounds for Sparse Signal Recovery with Multiple Side Information](https://arxiv.org/abs/1605.03234)`," in e-print, arXiv, Jan. 2017.`
+`H. V. Luong, J. Seiler, A. Kaup, S. Forchhammer, and N. Deligiannis, "`[Sparse Signal Recovery with Multiple Prior Information: Algorithm and Measurement Bounds](https://doi.org/10.1016/j.sigpro.2018.06.019)`," Signal Processing, 2018.`
 
 **_Computing the measurement bound m, which is required for successful reconstruction, for the weighted n-l1 minimization problem in (1)._**
 
